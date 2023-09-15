@@ -14,7 +14,7 @@ function App() {
           <p>Our goal is simple - to help your business succeed by offering comprehensive solutions tailored to your unique needs.</p>
         </div>
         <div className='connect'>
-            <a className='connect_button' href='https://tally.so/r/n99AjY' target='_blank'>
+            <a className='connect_button' href='https://tally.so/r/n99AjY' target='_blank' rel='noreferrer'>
               Connect
             </a>
         </div>
